@@ -2,6 +2,7 @@
 
 ## Contents
 **Computer Vision Toolkit**: A collection of Python scripts designed for executing a wide range of computer vision tasks using libraries such as OpenCV, NumPy, and SciPy.
+
 **Revolutionizing Neurosurgical Guidance in Real-Time**: A research paper discussing the integration of real-time imaging and computer vision technologies to improve neurosurgical interventions.
 
 ## Getting Started
