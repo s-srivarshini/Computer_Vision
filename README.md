@@ -5,7 +5,12 @@ This toolkit offers a comprehensive suite of Python scripts designed for executi
 ## Installation
 To run the notebook and replicate the findings, ensure you have the following Python packages installed:
 ```bash
-pip install numpy scikit-learn opencv-python matplotlib pandas scipy
+pip install numpy
+pip install scikit-learn
+pip install opencv-python
+pip install matplotlib
+pip install pandas
+pip install scipy
 ```
 
 ### Usage
